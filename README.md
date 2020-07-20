@@ -1,6 +1,5 @@
-### Hi there 👋
-
-![Grid Cycle](https://github.com/harmonc/harmonc/blob/master/resources/grid_cycle.gif)
+## Caleb Harmon
+### Student and Creative Coder
 ![Grid Cycle](https://github.com/harmonc/harmonc/blob/master/resources/grid_cycle.gif)
 
 <!--
