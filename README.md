@@ -1,5 +1,5 @@
-## Caleb Harmon
-### Student and Creative Coder
+### Caleb Harmon
+#### Student and Creative Coder
 ![Grid Cycle](https://github.com/harmonc/harmonc/blob/master/resources/grid_cycle.gif)
 
 <!--
