@@ -1,7 +1,9 @@
 ### Caleb Harmon
-#### Data Engineer
+#### Data Engineer at Advantage Solutions
 
+🔭 I’m currently working on Databricks at Advantage Solutions
 
+🌱 I’m currently learning new Databricks features and optimizations
 <!--
 **harmonc/harmonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
