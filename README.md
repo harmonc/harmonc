@@ -1,6 +1,6 @@
 ### Caleb Harmon
-#### Developer and Creative Coder
-![Grid Cycle](https://github.com/harmonc/harmonc/blob/master/resources/grid_cycle.gif)
+#### Data Engineer
+
 
 <!--
 **harmonc/harmonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
